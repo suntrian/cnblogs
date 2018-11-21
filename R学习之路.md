@@ -1,6 +1,8 @@
-* https://www.r-project.org/
-* The Comprehensive R Archive Network: https://cran.r-project.org/
+# R学习之路
 
-# rstudio
+* <https://www.r-project.org/>
+* The Comprehensive R Archive Network: <https://cran.r-project.org/>
 
-* https://www.rstudio.com/
+## rstudio
+
+* <https://www.rstudio.com/>
